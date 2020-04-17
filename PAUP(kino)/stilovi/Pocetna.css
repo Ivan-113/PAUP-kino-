@@ -1,0 +1,31 @@
+
+.pozadina
+{
+background:gray;
+}
+
+.prvaSlika
+{
+height:550px;
+width:1000px;
+margin-left:300px;
+margin-top:50px;
+margin-right:50px;
+object-fit:cover;
+}
+
+.container {
+    margin-left: 250px;
+    
+    
+}
+
+    .container .box {
+        
+        margin-left: 50px;
+        width: 120;
+        height: 120;
+        background: rgb(50, 112, 133);
+        float: left;
+       
+    }

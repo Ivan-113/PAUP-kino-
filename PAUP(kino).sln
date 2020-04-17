@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAUP(kino)", "PAUP(kino)\PAUP(kino).csproj", "{B7B16FC1-B2DE-499A-986D-C19D89596FDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7B16FC1-B2DE-499A-986D-C19D89596FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7B16FC1-B2DE-499A-986D-C19D89596FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7B16FC1-B2DE-499A-986D-C19D89596FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7B16FC1-B2DE-499A-986D-C19D89596FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD8EB714-831D-4F1E-8B22-D45D72B65A19}
+	EndGlobalSection
+EndGlobal
